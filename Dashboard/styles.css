@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+
+.topbar{
+    background-color:#ffd404;
+    color: black;
+}
+
+.navpages{
+    color: black;
+}
+
+
+.dashboard{
+    color: white;
+}
+
+.date{
+    color: #D3D3D3;
+}
+
+.removebtn{
+    margin-left: 10%;
+}

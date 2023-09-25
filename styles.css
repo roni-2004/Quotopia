@@ -1,0 +1,34 @@
+body{
+    background-color: black;
+}
+
+.topbar{
+    background-color:#ffd404;
+    color: black;
+}
+
+.navpages{
+    color: black;
+}
+
+.topcontainer{
+    background-color: black;
+}
+
+.nameOfBrand{
+    color: white;
+}
+
+.headline{
+    color: #ffd404;
+    font-size: 150%;
+}
+
+.featuretitle{
+    color: #ffd404;
+}
+
+.featurepara{
+    color: white;
+}
+

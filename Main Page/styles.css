@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Poppins:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+body{
+    background-color: black;
+}
+
+.topbar{
+    background-color:#ffd404;
+    color: black;
+}
+
+.navpages{
+    color: black;
+}
+
+
+.quoteregion h1{
+    width: 100%;
+    color: white;
+    padding-bottom: 5%;
+    font-family: 'Poppins';
+}
+
+.quoteregion p{
+    color: #ffd404;
+    font-family: 'Montserrat';
+}
+
+h1 {
+    box-shadow: inset 0 0 0 0 #54b3d6;
+    color: #54b3d6;
+    transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
+  }
+  h1:hover {
+    color: black;
+    box-shadow: inset 1000px 0 0 0 #ffd404;
+
+  }
+  
+
+  
+
+
